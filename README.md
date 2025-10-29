@@ -17,3 +17,6 @@ An excerpt of my master's thesis, which I did in collaboration with Volvo Group 
 
 ### [Portfolio optimization and Energy finance](https://github.com/OskarHP/Academic-Projects/tree/main/Computational%20finance)
 Two group projects from the Course Computational Finance at Politecnico di Milano. In progress: Add code.
+
+### [Bachelor's thesis in financial modelling](https://github.com/AliAlladin/TradingBot-DATX02-VT22)
+(In Swedish) Group collaboration where we developed an algorithmic trading robot, focusing on long-term investments. My work was mainly on the algorithms, which included pair trading and fibonacci retracements, and backtesting of these. External repository.
