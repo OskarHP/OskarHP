@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a recent **Master of Science in Engineering Mathematics** with a background mainly in mathematics, statistics, and programming. 
+I am a recent **Master of Science in Engineering Mathematics** with a background mainly in mathematics, statistics, and programming.
 
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r,java,c)](https://skillicons.dev)
  
@@ -12,8 +12,8 @@ I am a recent **Master of Science in Engineering Mathematics** with a background
 
 ## Selected projects
 
-### [Master's thesis in mathematical optimization](LINK)
+### [Master's thesis in mathematical optimization](https://github.com/OskarHP/Academic-Projects/tree/main/Master's%20thesis)
 An excerpt of my master's thesis, which I did in collaboration with Volvo Group in 2024. Multiple .py-files, as well as chapters, paragraphs and sentences in the thesis are removed (partly due to sensitive or irrelevant information).
 
-### [Portfolio optimization and Energy finance](LINK)
+### [Portfolio optimization and Energy finance]([LINK](https://github.com/OskarHP/Academic-Projects/tree/main/Computational%20finance))
 Two group projects from the Course Computational Finance at Politecnico di Milano. In progress: Add code.
