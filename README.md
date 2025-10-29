@@ -2,7 +2,9 @@
 
 I am a recent **Master of Science in Engineering Mathematics** with a background mainly in mathematics, statistics, and programming. 
 
-- **Programming & Tools:**  
+- **Programming & Tools:**
+[![My Skills](https://skillicons.dev/icons?i=Python,MATLAB,R,Java,C,Julia)](https://skillicons.dev)
+ 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
